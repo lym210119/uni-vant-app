@@ -3,6 +3,7 @@
 		<image class="logo" src="/static/logo.png"></image>
 		<view>
 			<text class="title">{{title}}</text>
+			<van-button type="primary">hello</van-button>
 		</view>
 	</view>
 </template>
